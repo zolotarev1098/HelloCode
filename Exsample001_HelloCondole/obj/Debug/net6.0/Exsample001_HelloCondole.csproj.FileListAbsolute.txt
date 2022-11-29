@@ -1,0 +1,15 @@
+C:\Users\zolot\Examples\Exsample001_HelloCondole\bin\Debug\net6.0\Exsample001_HelloCondole.exe
+C:\Users\zolot\Examples\Exsample001_HelloCondole\bin\Debug\net6.0\Exsample001_HelloCondole.deps.json
+C:\Users\zolot\Examples\Exsample001_HelloCondole\bin\Debug\net6.0\Exsample001_HelloCondole.runtimeconfig.json
+C:\Users\zolot\Examples\Exsample001_HelloCondole\bin\Debug\net6.0\Exsample001_HelloCondole.dll
+C:\Users\zolot\Examples\Exsample001_HelloCondole\bin\Debug\net6.0\Exsample001_HelloCondole.pdb
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.csproj.AssemblyReference.cache
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.AssemblyInfoInputs.cache
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.AssemblyInfo.cs
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.dll
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\refint\Exsample001_HelloCondole.dll
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.pdb
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\Exsample001_HelloCondole.genruntimeconfig.cache
+C:\Users\zolot\Examples\Exsample001_HelloCondole\obj\Debug\net6.0\ref\Exsample001_HelloCondole.dll
